@@ -30,6 +30,12 @@ body{
     
 
 }
+.navbar .navbar-toggler-icon{
+    color: #FFF;
+    background-color: #04edfa;
+    border: 3px solid hsla(241, 93%, 48%, 0.434);
+}
+
 
 .navbar .navbar-nav .nav-item a:hover{
     color:rgb(10, 253, 253);
